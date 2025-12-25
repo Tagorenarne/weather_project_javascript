@@ -54,4 +54,4 @@ PORT=3000
 OPENWEATHER_API_KEY=your_openweather_api_key
 npm start
 
-<img width="1909" height="1050" alt="image" src="https://github.com/user-attachments/assets/d9377d40-4055-4301-8daf-af747adf83a1" />
+<img width="1912" height="1029" alt="image" src="https://github.com/user-attachments/assets/41fb7c85-2488-4134-bfb2-c43fa856974b" />
