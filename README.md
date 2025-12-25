@@ -42,16 +42,23 @@ git clone https://github.com/your-username/weather-app.git
 
 # Install frontend dependencies
 cd frontend
+
 npm install
+
 npm run dev
 
 # Install backend dependencies
 cd backend
+
 npm install
+
+
 Create a .env file inside the backend folder:
 
 PORT=3000
+
 OPENWEATHER_API_KEY=your_openweather_api_key
+
 npm start
 
 <img width="1912" height="1029" alt="image" src="https://github.com/user-attachments/assets/41fb7c85-2488-4134-bfb2-c43fa856974b" />
