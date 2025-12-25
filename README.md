@@ -48,6 +48,10 @@ npm run dev
 # Install backend dependencies
 cd backend
 npm install
+Create a .env file inside the backend folder:
+
+PORT=3000
+OPENWEATHER_API_KEY=your_openweather_api_key
 npm start
 
 <img width="1909" height="1050" alt="image" src="https://github.com/user-attachments/assets/d9377d40-4055-4301-8daf-af747adf83a1" />
